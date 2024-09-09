@@ -29,3 +29,12 @@ O **Projeto Myrp** é um sistema de gestão de vendas desenvolvido com ASP.NET, 
 - [x] Implementação do CRUD para clientes.
 - [x] Implementação do fluxo de venda com suporte a múltiplos produtos.
 - [x] O cliente deve ser opcional no momento da venda.
+
+## Como Executar o Projeto
+
+1. **Clonar o Repositório**
+
+   ```bash
+   git clone https://github.com/mlbunick/Projeto-Desenvolvimento-Myrp.git
+   Abrir o arquivo .sln
+   Package Manager Console - update-database
