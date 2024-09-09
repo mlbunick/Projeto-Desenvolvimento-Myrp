@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDev\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDev\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDev\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj",
         "projectName": "ProjetoMyrpDEV",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDev\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDev\\ProjetoMyrpDEV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

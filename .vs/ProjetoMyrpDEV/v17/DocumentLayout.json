@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\pages\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\pages\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\pages\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\pages\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\pages\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\pages\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\pages\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\pages\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\pages\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Migrations\\20240909135012_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoMyrpDEV\\Migrations\\20240909135012_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Migrations\\20240909134338_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoMyrpDEV\\Migrations\\20240909134338_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -112,6 +108,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjetoMyrpDEV/True/SqlTable/dbo.VendaProdutos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|c:\\users\\matheus\\desktop\\projetomyrpdev\\projetomyrpdev\\projetomyrpdev\\migrations\\20240909135012_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF7F81D-3CF2-4D5B-9834-D2C31E84B61D}|ProjetoMyrpDEV\\ProjetoMyrpDEV.csproj|solutionrelative:projetomyrpdev\\migrations\\20240909135012_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,19 +126,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
-              "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:55:25.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Produtos\\Index.cshtml",
@@ -146,12 +133,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Produtos\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:23:47.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:23:47.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml",
@@ -159,12 +145,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T05:07:01.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T05:07:01.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml",
@@ -172,12 +157,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T06:16:06.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T06:16:06.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Edit.cshtml",
@@ -185,12 +169,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Edit.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T06:15:14.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T06:15:14.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Index.cshtml",
@@ -198,12 +181,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T12:38:35.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:38:35.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Index.cshtml",
@@ -211,12 +193,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T12:02:54.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:02:54.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml.cs",
@@ -224,12 +205,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Create.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwv0QAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T05:37:42.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T05:37:42.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml.cs",
@@ -237,12 +217,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Vendas\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:28:50.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:28:50.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Create.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Produtos\\Create.cshtml",
@@ -255,16 +234,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Details.cshtml",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Produtos\\Details.cshtml",
               "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Details.cshtml",
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Produtos\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T13:33:06.923Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:55:25.662Z"
             },
             {
               "$type": "Document",
@@ -276,8 +267,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Produtos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:55:14.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:55:14.468Z"
             },
             {
               "$type": "Document",
@@ -289,8 +279,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Clientes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:20:03.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:20:03.427Z"
             },
             {
               "$type": "Document",
@@ -302,8 +291,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Clientes\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:54:50.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:54:50.557Z"
             },
             {
               "$type": "Document",
@@ -315,8 +303,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Clientes\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:22:17.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:22:17.618Z"
             },
             {
               "$type": "Document",
@@ -328,8 +315,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Clientes\\Delete.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:33:23.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:33:23.403Z"
             },
             {
               "$type": "Document",
@@ -341,8 +327,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Clientes\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:26:09.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:26:09.691Z"
             },
             {
               "$type": "Document",
@@ -354,8 +339,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Data\\ProjetoMyrpDEVContext.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAmwCEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:39:18.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:39:18.713Z"
             },
             {
               "$type": "Document",
@@ -367,8 +351,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Controllers\\VendasController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA9wEEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T03:51:59.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T03:51:59.151Z"
             },
             {
               "$type": "Document",
@@ -380,8 +363,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Controllers\\ClientesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:36:46.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:36:46.907Z"
             },
             {
               "$type": "Document",
@@ -393,8 +375,7 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Models\\Venda.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAzwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T03:51:37.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T03:51:37.47Z"
             },
             {
               "$type": "Document",
@@ -406,12 +387,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T06:04:40.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T06:04:40.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "20240909135012_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Migrations\\20240909135012_Initial.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Migrations\\20240909135012_Initial.cs",
@@ -419,12 +399,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Migrations\\20240909135012_Initial.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:50:12.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:50:12.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20240909134338_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Migrations\\20240909134338_Initial.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Migrations\\20240909134338_Initial.cs",
@@ -432,12 +411,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Migrations\\20240909134338_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:43:38.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:43:38.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -445,12 +423,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AgIAAPIPAAAAAAAAAAAuwP4PAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-09T12:56:52.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:56:52.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "20240909122126_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Migrations\\20240909122126_Initial.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Migrations\\20240909122126_Initial.cs",
@@ -458,12 +435,11 @@
               "RelativeToolTip": "ProjetoMyrpDEV\\Migrations\\20240909122126_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:21:26.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:21:26.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\ProjetoMyrpDEV\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoMyrpDEV\\Program.cs",
@@ -475,10 +451,10 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "dbo.VendaProdutos [Dados]",
+              "DocumentIndex": 26,
+              "Title": "dbo.VendaProdutos.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjetoMyrpDEV/True/SqlTable/dbo.VendaProdutos.sql",
-              "ToolTip": "dbo.VendaProdutos [Dados]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjetoMyrpDEV/True/SqlTable/dbo.VendaProdutos.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-09-09T03:49:33.644Z"
             }

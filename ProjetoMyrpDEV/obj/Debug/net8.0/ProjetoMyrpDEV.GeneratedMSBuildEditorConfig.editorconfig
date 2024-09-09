@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoMyrpDEV
 build_property.RootNamespace = ProjetoMyrpDEV
-build_property.ProjectDir = C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDev\ProjetoMyrpDEV\
+build_property.ProjectDir = C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDev\ProjetoMyrpDEV
+build_property.MSBuildProjectDirectory = C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Clientes/Create.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Clientes/Delete.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Clientes/Details.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Clientes/Edit.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Clientes/Index.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Error.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Index.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Privacy.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Produtos/Create.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Produtos/Delete.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Produtos/Details.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Produtos/Edit.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Produtos/Index.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Vendas/Create.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Vendas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Vendas/Delete.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Vendas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Vendas/Details.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Vendas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Vendas/Edit.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Vendas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Vendas/Index.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Vendas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/_ViewImports.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/_ViewStart.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDev/ProjetoMyrpDEV/Pages/Shared/_Layout.cshtml]
+[C:/Users/Matheus/Desktop/ProjetoMyrpDEV/ProjetoMyrpDEV/ProjetoMyrpDEV/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-moejqlyqaj

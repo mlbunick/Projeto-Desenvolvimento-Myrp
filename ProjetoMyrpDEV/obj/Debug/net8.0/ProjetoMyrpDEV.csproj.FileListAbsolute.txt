@@ -250,3 +250,4 @@ C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\bin\Debug\
 C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Matheus\Desktop\ProjetoMyrpDEV\ProjetoMyrpDEV\ProjetoMyrpDEV\obj\Debug\net8.0\ProjetoMyrpDEV.sourcelink.json
