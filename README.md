@@ -36,5 +36,5 @@ O **Projeto Myrp** é um sistema de gestão de vendas desenvolvido com ASP.NET, 
 
    ```bash
    git clone https://github.com/mlbunick/Projeto-Desenvolvimento-Myrp.git
-   Abrir o arquivo .sln através do Visual Studio 2022
+   Abrir o arquivo .sln - Visual Studio 2022
    Package Manager Console - update-database
