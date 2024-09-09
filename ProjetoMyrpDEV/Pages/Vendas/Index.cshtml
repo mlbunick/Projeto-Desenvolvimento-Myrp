@@ -1,0 +1,47 @@
+﻿@page
+@model ProjetoMyrpDEV.Pages.Vendas.IndexModel
+
+@{
+    ViewData["Title"] = "Vendas";
+}
+
+<h1>Vendas</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Criar Nova Venda</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Data</th>
+            <th>Cliente</th>
+            <th>Produtos</th>
+            <th>Valor Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venda in Model.Venda)
+        {
+            <tr>
+                <td>@venda.Id</td>
+                <td>@venda.Data.ToShortDateString()</td>
+                <td>@(venda.Cliente?.Nome ?? "N/A")</td>
+                <td>
+                    @foreach (var vp in venda.VendaProdutos)
+                    {
+                        <div>@vp.Produto.Nome - Quantidade: @vp.Quantidade</div>
+                    }
+                </td>
+
+                <td>@venda.ValorTotal</td>
+
+                <td>
+                    <a asp-page="Edit" asp-route-id="@venda.Id" class="btn btn-secondary">Editar</a>
+                    <a asp-page="Details" asp-route-id="@venda.Id" class="btn btn-info" style="background-color: #0B5ED7; border-color: #0B5ED7; color: white">Detalhes</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

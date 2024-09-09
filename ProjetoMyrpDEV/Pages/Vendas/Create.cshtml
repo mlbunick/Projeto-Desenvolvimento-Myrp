@@ -1,0 +1,122 @@
+﻿@page
+@model ProjetoMyrpDEV.Pages.Vendas.CreateModel
+@using ProjetoMyrpDEV.Models
+
+@{
+    ViewData["Title"] = "Realizar Venda";
+}
+
+<h1>Realizar Venda</h1>
+
+<h4></h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Venda.Data" class="control-label"></label>
+                <input asp-for="Venda.Data" class="form-control" type="date" />
+                <span asp-validation-for="Venda.Data" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Venda.ClienteId" class="control-label"></label>
+                <select asp-for="Venda.ClienteId" class="form-control" asp-items="ViewBag.ClienteId">
+                    <option value="">Nenhum Cliente</option>
+                </select>
+                <span asp-validation-for="Venda.ClienteId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Produtos</label>
+                <div id="produtos-container">
+                    @for (var i = 0; i < Model.VendaProdutos.Count; i++)
+                    {
+                        <div class="produto-item">
+                            <select class="form-control produto-selecao" name="VendaProdutos[@i].ProdutoId" data-index="@i">
+                                @foreach (var produto in (List<Produto>)ViewData["Produtos"])
+                                {
+                                    <option value="@produto.Id" data-preco="@produto.Preco">@produto.Nome</option>
+                                }
+                            </select>
+                            <input type="number" class="form-control mt-2 quantidade-produto" name="VendaProdutos[@i].Quantidade" placeholder="Quantidade" data-index="@i" min="1" value="1" />
+                            <span class="preco-produto" data-index="@i">R$ 0.00</span>
+                        </div>
+                    }
+                </div>
+                <button type="button" class="btn btn-secondary mt-2" id="add-produto">Adicionar Produto</button>
+            </div>
+
+            <div class="form-group">
+                <h4>Total da Venda: R$ <span id="valorTotalVenda">0.00</span></h4>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Voltar para a lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var produtos = @Html.Raw(Json.Serialize((List<Produto>)ViewData["Produtos"])); 
+            const valorTotalVendaElement = document.getElementById('valorTotalVenda');
+
+            function atualizarTotal() {
+                let totalVenda = 0;
+                document.querySelectorAll('.produto-item').forEach(function (item, index) {
+                    const produtoSelect = item.querySelector(`select[name="VendaProdutos[${index}].ProdutoId"]`);
+                    const quantidadeInput = item.querySelector(`input[name="VendaProdutos[${index}].Quantidade"]`);
+                    const precoSpan = item.querySelector(`.preco-produto[data-index="${index}"]`);
+
+                    const produtoSelecionado = produtoSelect.options[produtoSelect.selectedIndex];
+                    const preco = parseFloat(produtoSelecionado.getAttribute('data-preco')) || 0;
+                    const quantidade = parseInt(quantidadeInput.value) || 0;
+                    const totalProduto = preco * quantidade;
+
+                    precoSpan.textContent = 'R$ ' + totalProduto.toFixed(2);
+                    totalVenda += totalProduto;
+                });
+
+                valorTotalVendaElement.textContent = totalVenda.toFixed(2);
+            }
+
+            document.getElementById('produtos-container').addEventListener('input', function (event) {
+                if (event.target.classList.contains('produto-selecao') || event.target.classList.contains('quantidade-produto')) {
+                    atualizarTotal();
+                }
+            });
+
+            document.getElementById('add-produto').addEventListener('click', function () {
+                var container = document.getElementById('produtos-container');
+                var index = container.getElementsByClassName('produto-item').length;
+
+                var newProdutoItem = document.createElement('div');
+                newProdutoItem.classList.add('produto-item');
+                newProdutoItem.innerHTML = `
+                            <select class="form-control produto-selecao" name="VendaProdutos[${index}].ProdutoId" data-index="${index}">
+                                ${produtos.map(p => `<option value="${p.id}" data-preco="${p.preco}">${p.nome}</option>`).join('')}
+                            </select>
+                            <input type="number" class="form-control mt-2 quantidade-produto" name="VendaProdutos[${index}].Quantidade" placeholder="Quantidade" data-index="${index}" min="1" value="1" />
+                            <span class="preco-produto" data-index="${index}">R$ 0.00</span>
+                        `;
+                container.appendChild(newProdutoItem);
+
+                atualizarTotal(); 
+            });
+
+            atualizarTotal(); 
+        });
+    </script>
+}
